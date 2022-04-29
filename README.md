@@ -1,8 +1,8 @@
 # Hi, wassup ? 🤙🏿, I am [Victor Arruda](https://www.linkedin.com/in/victor-arruda22/) 🚀
 <div align="center">
   <a href="https://github.com/VictorArruda22">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=VictorArruda22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorArruda22&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=VictorArruda22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorArruda22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Aws" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
