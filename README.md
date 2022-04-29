@@ -1,4 +1,4 @@
-# Hi, wassup ? 🤙🏿, I am [Victor Arruda](https://www.linkedin.com/in/victor-arruda22/)
+# Hi, wassup ? 🤙🏿, I am [Victor Arruda](https://www.linkedin.com/in/victor-arruda22/) 🚀
 <div align="center">
   <a href="https://github.com/VictorArruda22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorArruda22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
